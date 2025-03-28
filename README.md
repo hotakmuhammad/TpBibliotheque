@@ -9,6 +9,7 @@ Une application de gestion de bibliothèque en Java avec Spring Boot.
 - 🌐 API REST avec endpoints.
 - 🔒 Utilisation de DTO.
 - 📑 Pagination sur une entité.
+- 📂 Insertion de plusieurs auteurs à la fois en important un fichier csv
 
 ## 🛠️ Technologies
 - ☕ Java 17
